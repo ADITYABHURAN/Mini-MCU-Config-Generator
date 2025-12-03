@@ -1,0 +1,6 @@
+{
+  "board": "ESP32",
+  "peripheral": "I2C",
+  "sda": 21,
+  "scl": 22
+}
